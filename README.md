@@ -4,6 +4,7 @@ This program prompts the user for their flight information in the terminal, chec
 
 Usage
 - Clone the repository
+- Download the ChromeDriver version that matches your current version of Google Chrome
 - If desired, specify the file name or path for the downloaded boarding pass
 - Run the checkIn.py script with the command "python checkIn.py"
 - Answer all questions in the terminal and receive confirmation that check in was scheduled
